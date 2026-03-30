@@ -1,3 +1,19 @@
+https://lightamadi-stack.github.io/Light-Data-Analytics-Portfolio/
+
+# 🌐 Light's Data Analytics Portfolio
+
+Welcome to my portfolio! This repository serves as a central hub showcasing my **data analytics projects**. Each project has its own repository, and links are provided below. The goal is to demonstrate my skills in **Power BI, SQL, Excel, and data visualization** while solving real-world business problems.
+
+---
+
+## 📑 Table of Contents
+- [📊 Projects Showcase](#-projects-showcase)
+- [🛠 Skills & Tools](#-skills--tools)
+- [👤 About Me](#-about-me)
+- [📎 Contact](#-contact)
+
+---
+
 ## 📊 Projects Showcase
 
 <table>
@@ -53,5 +69,26 @@
       Short description of what it does.<br>
       📎 <a href="https://yourusername.github.io/Project5">View Deliverable</a>
     </td>
-  </tr>
-</table>
+
+    ## 🛠 Skills & Tools
+- Power BI → Data cleaning, modeling, dashboards  
+- SQL → Querying and database management  
+- Excel → Advanced analytics and reporting  
+- Data Visualization → Interactive charts and insights  
+- Business Intelligence → Strategic recommendations  
+
+---
+
+## 👤 About Me
+**Light**  
+📍 Nigeria  
+💼 Data Analyst | Microsoft Certified Power BI Data Analyst  
+
+I specialize in transforming raw datasets into actionable insights that drive business decisions. My focus is on **data storytelling, visualization, and business intelligence solutions**.
+
+---
+
+## 📎 Contact
+- 🔗 [GitHub](https://github.com/lightamadi-stack)  
+- 🔗 [LinkedIn](www.linkedin.com/in/light-a-942628360)  
+- 📧 Email: lightawodi@gmail.com
