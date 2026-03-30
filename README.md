@@ -19,11 +19,16 @@ Welcome to my portfolio! This repository serves as a central hub showcasing my *
 <table>
   <tr>
     <td>
+      <!-- Image clickable -->
       <a href="https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis">
         <img src="https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/blob/main/images/images.coverpage.png" width="200" alt="Mobile Sales Performance Analysis"/>
       </a>
       <br>
-      <b>Mobile Sales Performance Analysis</b><br>
+      <!-- Title clickable -->
+      <a href="https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis">
+        <b>Mobile Sales Performance Analysis</b>
+      </a>
+      <br>
       Power BI dashboard analyzing mobile phone sales across brands, models, and regions.<br>
       📎 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9">View Deliverable</a>
     </td>
