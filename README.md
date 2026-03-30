@@ -20,7 +20,7 @@ Welcome to my portfolio! This repository serves as a central hub showcasing my *
   <tr>
     <td>
       <a href="https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis">
-        <img src="images/mobile-sales-banner.png" width="300" alt="Mobile Sales Performance Analysis"/>
+        <img src="images/images.coverpage.png" width="300" alt="Mobile Sales Performance Analysis"/>
       </a>
       <br>
       <b>Mobile Sales Performance Analysis</b><br>
