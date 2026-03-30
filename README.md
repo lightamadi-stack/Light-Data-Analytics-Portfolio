@@ -25,7 +25,7 @@ Welcome to my portfolio! This repository serves as a central hub showcasing my *
       <br>
       <b>Mobile Sales Performance Analysis</b><br>
       Power BI dashboard analyzing mobile phone sales across brands, models, and regions.<br>
-      📎 <a href="https://lightamadi-stack.github.io/Mobile-Sales-Performance-Analysis">View Deliverable</a>
+      📎 <a href="https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9">View Deliverable</a>
     </td>
     <td>
       <a href="https://github.com/yourusername/Project2">
