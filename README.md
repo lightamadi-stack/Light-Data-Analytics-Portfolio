@@ -21,6 +21,13 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 
 ## 📊 Projects
 
+- [GLOBAL BREAST CANCER ANALYSIS](https://github.com/lightamadi-stack/Global-Breast-Cancer-Analysis)  
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Global-Breast-Cancer-Analysis/65ca0afe654f1e49f6bf9e324e395bab9712c95f/06-DashboardOverview.png" 
+       alt="Global Breast Cancer Analysis Thumbnail" width="250">
+
+  📎 [View Global Breast Cancer Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiMzVlMzhlYjktZDY0OS00NWZhLTg1YzUtNGVmODVlODMwNThlIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
+  Power BI dashboard analyzing global breast cancer incidence, survival outcomes, and risk factors across income regions and stages.
+
 - [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/main/images/images.dashboardoverview.png" 
        alt="Mobile Sales Performance Analysis Thumbnail" width="250">
@@ -35,11 +42,7 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 📎 [View Palmoria Manufacturing Group Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiZmM3MDE1ZTctNDhiZS00OGIxLTkxMDgtZjhkNWYyYmU2MDZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
     Power BI dashboard analyzing Palmoria Group employee data to uncover gender distribution, pay structure, minimum wage compliance, and regional/departmental disparities, with actionable recommendations on salary adjustments and diversity initiatives.
 
-  
-- [Project 3 Title](https://github.com/yourusername/Project3)  
-  Short description of what it does.
-
----
+ ---
 
 ## 🛠 Skills & Tools
 - Power BI → Data cleaning, modeling, dashboards  
