@@ -28,9 +28,15 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
   📎 [View Mobile Sales Performance Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing mobile phone sales across brands, models, and regions.
 
-- [Project 2 Title](https://github.com/yourusername/Project2)  
-  Short description of what it does.
+- [PALMORIA MANUFACTURING GROUP](https://github.com/lightamadi-stack/Palmoria-Manufacturing-Group-From-Crisis-to-Clarity.)  
+<img src="https://raw.githubusercontent.com/lightamadi-stack/Palmoria-Manufacturing-Group-From-Crisis-to-Clarity./5ffc46e575f44da040b67a27d8f66487bbaad214/PlamoriaAnalytics1.png" 
+       alt="Mobile Sales Performance Analysis Thumbnail" width="250">
 
+📎 [View Palmoria Manufacturing Group Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiZmM3MDE1ZTctNDhiZS00OGIxLTkxMDgtZjhkNWYyYmU2MDZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
+    Power BI dashboard analyzing Palmoria Group employee data to uncover gender distribution, pay structure, minimum wage compliance, and regional/departmental disparities, with actionable recommendations on salary adjustments and diversity initiatives.
+
+
+  
 - [Project 3 Title](https://github.com/yourusername/Project3)  
   Short description of what it does.
 
@@ -46,11 +52,11 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 ---
 
 ## 👤 About Me
-**Light**  
-📍 Abuja, Nigeria  
-💼 Data Analyst | Power BI Enthusiast  
+**Light Amadi**  
+📍 Nigeria  
+💼 Microsoft Certified Power BI Data Analyst  
 
-I specialize in transforming raw datasets into actionable insights that drive business decisions. My focus is on **data storytelling, visualization, and business intelligence solutions**.
+I specialize in transforming raw datasets into actionable insights that drive informed business decisions. I am passionate about solving complex business problems and delivering impactful analytics. My work focuses on data storytelling, visualization, and business intelligence solutions.
 
 ---
 
