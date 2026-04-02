@@ -22,7 +22,7 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 ## 📊 Projects
 
 - [GLOBAL BREAST CANCER ANALYSIS](https://github.com/lightamadi-stack/Global-Breast-Cancer-Analysis)  
-  <img src="https://raw.githubusercontent.com/lightamadi-stack/Global-Breast-Cancer-Analysis/65ca0afe654f1e49f6bf9e324e395bab9712c95f/06-DashboardOverview.png" 
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Global-Breast-Cancer-Analysis/f7074972050a86e22e71ea347857d92dcb4f6dd2/Images/06-DashboardOverview.png" 
        alt="Global Breast Cancer Analysis Thumbnail" width="250">
 
   📎 [View Global Breast Cancer Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiMzVlMzhlYjktZDY0OS00NWZhLTg1YzUtNGVmODVlODMwNThlIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
