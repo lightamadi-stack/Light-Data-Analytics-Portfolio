@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lightamadi-stack/Light-Data-Analytics-Portfolio/blob/main/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Light-Data-Analytics-Portfolio/main/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
 </p>
 
 # 🌐 Light's Data Analytics Portfolio
@@ -21,7 +21,8 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 ## 📊 Projects
 
 - [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
-  <img src="https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/blob/main/images/images.dashboardoverview.png" alt="Mobile Sales Performance Analysis Thumbnail" width="250">
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/main/images/images.dashboardoverview.png" alt="Mobile Sales Performance Analysis Thumbnail" width="250"><br>
+  *Thumbnail for visual representation only. Actual dashboard may vary.*  
 
   📎 [View Mobile Sales Performance Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing mobile phone sales across brands, models, and regions.
@@ -47,6 +48,10 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 **Light**  
 📍 Abuja, Nigeria  
 💼 Data Analyst | Power BI Enthusiast  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Light-Data-Analytics-Portfolio/main/profile.jpg" alt="Light's Profile Photo" width="200" style="border-radius:50%;">
+</p>
 
 I specialize in transforming raw datasets into actionable insights that drive business decisions. My focus is on **data storytelling, visualization, and business intelligence solutions**.
 
