@@ -2,12 +2,15 @@
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Light-Data-Analytics-Portfolio/main/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
 </p>
 
-# 🌐 Light's Data Analytics Portfolio
+# 🌐 About Me
 
-Welcome to my Data Analytics Portfolio!  
-This portfolio serves as a central hub showcasing my **data analytics projects**. Each project is organized in its own dedicated workspace with links provided below.  
+🌟**Welcome to my Data Analytics Portfolio!**  
+Hi, I’m Light Amadi, a **Microsoft Certified Power BI Data Analyst** who loves turning messy datasets into clear, meaningful insights. This portfolio is a curated collection of my analytics projects, each one organized in its own dedicated workspace so you can easily explore the stories behind the numbers.
 
-I use **Power BI, SQL, Excel, and strong data visualization** techniques to solve real-world business problems, uncover insights, and support data-driven decisions. Explore the projects to see my analytical thinking, technical execution, and storytelling in action.
+I enjoy digging deep into data, uncovering patterns others might miss, and transforming complex information into dashboards that are both intuitive and enjoyable to use. Using tools like Power BI, SQL, and Excel, I solve real business problems and help teams make smarter, data-driven decisions. My work focuses on **data exploration, data storytelling, visualization, and business intelligence solutions**, turning raw data into actionable insights.
+
+Here, you’ll find projects that reflect my analytical thinking, technical execution, and passion for telling powerful data stories.
+I’m really glad you’re here, feel free to browse through the work, connect with me, I would love to hear from you!
 
 ---
 
@@ -51,25 +54,18 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 
  ---
 
-## 🛠 Skills & Tools
-- Power BI → Data cleaning, modeling, dashboards  
-- SQL → Querying and database management  
-- Excel → Advanced analytics and reporting  
-- Data Visualization → Interactive charts and insights  
-- Business Intelligence → Strategic recommendations  
+##  Skills & Tools
+- 🛠 Tools: Power BI, Excel, SQL, Power Query, Git & GitHub, PowerPoint  
+- 🔤 Languages: DAX, SQL, Excel formulas  
+- 📊 Analytics Skills: Data exploration, modeling, visualization, BI solutions, KPI development, forecasting, HR & sales analytics, ETL processes, data-driven storytelling & actionable insights.  
+- 💡Professional Skills: Analytical thinking, task organization, stakeholder communication, problem-solving, attention to detail, clear reporting, project organization, continuous learning
 
 ---
 
-## 👤 About Me
-**Light Amadi**  
+## 👤 Connect With Me
+**Light Amadi**
 📍 Nigeria  
 💼 Microsoft Certified Power BI Data Analyst  
-
-I specialize in transforming raw datasets into actionable insights that drive informed business decisions. I am passionate about solving complex business problems and delivering impactful analytics. My work focuses on data storytelling, visualization, and business intelligence solutions.
-
----
-
-## 📎 Contact
 - 🔗 [GitHub](https://github.com/lightamadi-stack)  
 - 🔗 [LinkedIn](https://linkedin.com/in/light-a-942628360)  
 - 📧 Email: lightawodi@gmail.com
