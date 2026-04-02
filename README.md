@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lightamadi-stack/Light-Data-Analytics-Portfolio/f63b7bc8f1a888d6fee6aee0881a3d829602fbf4/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Light-Data-Analytics-Portfolio/main/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
 </p>
 
 # 🌐 Light's Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! 
-This portfolio serves as a central hub showcasing my **data analytics projects**. Each project is organized in its own dedicated workspace with links provided below. 
+Welcome to my Data Analytics Portfolio!  
+This portfolio serves as a central hub showcasing my **data analytics projects**. Each project is organized in its own dedicated workspace with links provided below.  
 
 I use **Power BI, SQL, Excel, and strong data visualization** techniques to solve real-world business problems, uncover insights, and support data-driven decisions. Explore the projects to see my analytical thinking, technical execution, and storytelling in action.
 
@@ -18,11 +18,12 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 - [📎 Contact](#-contact)
 
 ---
+
 ## 📊 Projects
 
 - [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/main/images/images.dashboardoverview.png" 
-     alt="Mobile Sales Performance Analysis Thumbnail" width="250">
+       alt="Mobile Sales Performance Analysis Thumbnail" width="250">
 
   📎 [View Mobile Sales Performance Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing mobile phone sales across brands, models, and regions.
@@ -55,5 +56,5 @@ I specialize in transforming raw datasets into actionable insights that drive bu
 
 ## 📎 Contact
 - 🔗 [GitHub](https://github.com/lightamadi-stack)  
-- 🔗 [LinkedIn](https://linkedin.com/in/light-a-942628360)
+- 🔗 [LinkedIn](https://linkedin.com/in/light-a-942628360)  
 - 📧 Email: lightawodi@gmail.com
