@@ -35,7 +35,6 @@ I use **Power BI, SQL, Excel, and strong data visualization** techniques to solv
 📎 [View Palmoria Manufacturing Group Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiZmM3MDE1ZTctNDhiZS00OGIxLTkxMDgtZjhkNWYyYmU2MDZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
     Power BI dashboard analyzing Palmoria Group employee data to uncover gender distribution, pay structure, minimum wage compliance, and regional/departmental disparities, with actionable recommendations on salary adjustments and diversity initiatives.
 
-
   
 - [Project 3 Title](https://github.com/yourusername/Project3)  
   Short description of what it does.
