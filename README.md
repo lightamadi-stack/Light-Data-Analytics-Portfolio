@@ -1,4 +1,6 @@
-https://lightamadi-stack.github.io/Light-Data-Analytics-Portfolio/
+<p align="center">
+  <img src="https://github.com/lightamadi-stack/Light-Data-Analytics-Portfolio/blob/main/Light-Amadi-Data-Portofolio.png" alt="Portfolio Banner" width="800">
+</p>
 
 # 🌐 Light's Data Analytics Portfolio
 
@@ -15,8 +17,12 @@ Welcome to my portfolio! This repository serves as a central hub showcasing my *
 ---
 ## 📊 Projects
 
-- [Mobile Sales Performance Analysis](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)
- 📎 [View Deliverable](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
+- [Mobile Sales Performance Analysis](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
+  <img src="https://github.com/lightamadi-stack/Light-Data-Analytics-Portfolio/blob/main/Thumbnail-for-mobile-sales.png" alt="Mobile Sales Performance Analysis Thumbnail" width="250">
+
+*Thumbnail for visual representation only. Actual dashboard may vary.*
+
+  📎 [View Deliverable](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing mobile phone sales across brands, models, and regions.
 
 - [Project 2 Title](https://github.com/yourusername/Project2)  
