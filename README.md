@@ -17,8 +17,7 @@ I’m really glad you’re here, feel free to browse through the work, connect w
 ## 📑 Table of Contents
 - [📊 Projects Showcase](#-projects-showcase)
 - [🛠 Skills & Tools](#-skills--tools)
-- [👤 About Me](#-about-me)
-- [📎 Contact](#-contact)
+- [👤 Connect With Me](#-contact)
 
 ---
 
