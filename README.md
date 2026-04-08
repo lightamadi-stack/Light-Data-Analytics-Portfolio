@@ -37,11 +37,11 @@ I’m really glad you’re here, feel free to browse through the work, connect w
   📎 [View Mobile Sales Performance Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiZTc5YmZkMzYtMWNiMi00MGQ2LWJmZjctODcxMTNiM2U3OWZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing telecom network KPIs across regions, sites, and cells.
 
-  - [TELECOM NETWORK PERFORMANCE REPORT](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
+- [TELECOM NETWORK PERFORMANCE REPORT](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Telecom-Network-Performance-Report/01fd7f7c6a0c68a5c3a2c4fb0d7e3d210a89e279/Images/01-OverviewPage.png" 
        alt="Mobile Sales Performance Analysis Thumbnail" width="250">
 
-  📎 [View Mobile Sales Performance Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiNDExNjYyY2MtMTZmMi00YWE0LTg4YTItOTliZDhiYzkzZTdjIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
+  📎 [View Telecom Network Performance Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiZTc5YmZkMzYtMWNiMi00MGQ2LWJmZjctODcxMTNiM2U3OWZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing mobile phone sales across brands, models, and regions.
 
 - [PALMORIA MANUFACTURING GROUP](https://github.com/lightamadi-stack/Palmoria-Manufacturing-Group-From-Crisis-to-Clarity.)  
