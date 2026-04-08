@@ -30,7 +30,7 @@ I’m really glad you’re here, feel free to browse through the work, connect w
   📎 [View Global Breast Cancer Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiMzVlMzhlYjktZDY0OS00NWZhLTg1YzUtNGVmODVlODMwNThlIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
   Power BI dashboard analyzing global breast cancer incidence, survival outcomes, and risk factors across income regions and stages.
 
-- [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Telecom-Network-Performance-Report)  
+- [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Mobile-Sales-Performance-Analysis)  
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/main/images/images.dashboardoverview.png" 
        alt="Mobile Sales Performance Analysis Thumbnail" width="250">
 
