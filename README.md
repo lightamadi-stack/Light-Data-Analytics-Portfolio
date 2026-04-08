@@ -23,6 +23,13 @@ I’m really glad you’re here, feel free to browse through the work, connect w
 
 ## 📊 Projects
 
+- [GLOBAL BREAST CANCER ANALYSIS](https://github.com/lightamadi-stack/Global-Breast-Cancer-Analysis)  
+  <img src="https://raw.githubusercontent.com/lightamadi-stack/Global-Breast-Cancer-Analysis/f7074972050a86e22e71ea347857d92dcb4f6dd2/Images/06-DashboardOverview.png" 
+       alt="Global Breast Cancer Analysis Thumbnail" width="250">
+
+  📎 [View Global Breast Cancer Analysis Live Dashboard and Interact with It](https://app.powerbi.com/view?r=eyJrIjoiMzVlMzhlYjktZDY0OS00NWZhLTg1YzUtNGVmODVlODMwNThlIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)  
+  Power BI dashboard analyzing global breast cancer incidence, survival outcomes, and risk factors across income regions and stages.
+
 - [MOBILE SALES PERFORMANCE ANALYSIS](https://github.com/lightamadi-stack/Telecom-Network-Performance-Report)  
   <img src="https://raw.githubusercontent.com/lightamadi-stack/Mobile-Sales-Performance-Analysis/main/images/images.dashboardoverview.png" 
        alt="Mobile Sales Performance Analysis Thumbnail" width="250">
@@ -47,7 +54,7 @@ I’m really glad you’re here, feel free to browse through the work, connect w
  ---
 
 ##  Skills & Tools
-- 🛠 Tools: Power BI, Excel, SQL, Power Query, Git & GitHub, PowerPoint  
+- 🛠 Tools: Power BI, Excel, SQL, Power Query, GitHub, PowerPoint  
 - 🔤 Languages: DAX, SQL, Excel formulas  
 - 📊 Analytics Skills: Data exploration, modeling, visualization, BI solutions, KPI development, forecasting, HR & sales analytics, ETL processes, data-driven storytelling & actionable insights.  
 - 💡Professional Skills: Analytical thinking, task organization, stakeholder communication, problem-solving, attention to detail, clear reporting, project organization, continuous learning
