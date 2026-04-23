@@ -66,5 +66,5 @@ I’m really glad you’re here, feel free to browse through the work, connect w
 📍 Nigeria  
 💼 Microsoft Certified Power BI Data Analyst  
 - 🔗 [GitHub](https://github.com/lightamadi-stack)  
-- 🔗 [LinkedIn](https://linkedin.com/in/light-a-942628360)  
+- 🔗 [LinkedIn](www.linkedin.com/in/light-amadi-942628360)  
 - 📧 Email: lightawodi@gmail.com
